@@ -4,7 +4,5 @@ hello java
 hello php
 hello python
 hello c++
-hello javaScript
 hello go
 hello python3
-hello nodejs
